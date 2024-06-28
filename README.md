@@ -1,1 +1,3 @@
 cheat =))
+bypass
+auto
