@@ -1,3 +1,1 @@
-cheat =))
-bypass
-auto
+bypass captcha | auto take bee
