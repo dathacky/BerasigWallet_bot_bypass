@@ -1,1 +1,10 @@
-bypass captcha | auto take bee | 3/7/2024 | @dathacky | https://t.me/hackycommumnity
+# Bypass BerasigWallet Bot by @dathacky
+
+## Features
+- Bypass tracking focus tab
+- Auto take bee
+- Remove ban acc Api
+- Auto close take bee success modal
+
+## Usaging
+[HackyCommunity](https://t.me/hackycommunity)
