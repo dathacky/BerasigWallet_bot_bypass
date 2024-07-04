@@ -239,7 +239,7 @@
                     }), (0,
                     n.jsx)("button", {
                         className: "btn p-5 w-full",
-                        onClick: e.onClose,
+                        onClick: e.onClose(),
                         children: "Close"
                     })]
                 })]
