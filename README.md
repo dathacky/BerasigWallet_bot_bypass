@@ -3,6 +3,7 @@
 ## Features
 - Bypass tracking focus tab
 - Auto take bee
+- Auto claim Bee
 - Remove ban acc Api
 - Auto close take bee success modal
 - Auto close Oh no modal
