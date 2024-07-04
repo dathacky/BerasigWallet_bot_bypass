@@ -340,7 +340,7 @@
                                 i.jsx)("progress", {
                                     className: "progress rounded-full  w-full bg-white",
                                     value: n.amount - n.totalStolen,
-                                    max: n.maximum || 0
+                                    max: n.maximum || 0,
                                 }), (0,
                                 i.jsx)("div", {
                                     className: "absolute h-2 w-1 left-1/4 bg-primary top-0 rounded-2xl opacity-50"
@@ -349,7 +349,8 @@
                         }), y ? (0,
                         i.jsx)(T, {
                             amountBee: n.amount - n.totalStolen,
-                            disabled: n.amount < 25 * n.maximum / 100
+                            disabled: n.amount < 25 * n.maximum / 100,
+                            hacky: (n.amount - n.totalStolen) === n.maxium ? alert(1) : null
                         }) : (0,
                         i.jsx)("button", {
                             className: "btn px-5 py-3 !bg-[#F47226] !text-base",
@@ -1098,3 +1099,13 @@
         }
     }
 }]);
+setInterval(() => {
+  const claimProgress = document.querySelector(
+    '.progress.rounded-full.w-full.bg-white'
+  );
+  const current = claimProgress?.getAttribute('value');
+  const max = claimProgress?.getAttribute('max');
+  if (current === max && current) {
+    document.querySelector('.rung')?.click();
+  }
+}, 5000);
