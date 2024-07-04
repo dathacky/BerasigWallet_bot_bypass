@@ -6,6 +6,9 @@
 - Remove ban acc Api
 - Auto close take bee success modal
 
+## NOTE
+For research purposes, no responsibility for any accounts being banned or copyright related issues.
+
 ## Usaging
 [HackyCommunity](https://t.me/hackycommunity)
 
