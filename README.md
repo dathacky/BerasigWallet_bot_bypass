@@ -6,6 +6,7 @@
 - Remove ban acc Api
 - Auto close take bee success modal
 - Auto close Oh no modal
+- Claim BEE without captcha, without select coin type
 
 ## NOTE
 For research purposes, no responsibility for any accounts being banned or copyright related issues.
