@@ -2,7 +2,7 @@
 
 ## Features
 - Bypass tracking focus tab
-- Auto take bee
+- NO -> -Auto take bee-
 - Auto claim Bee
 - Remove ban acc Api
 - Auto close take bee success modal
