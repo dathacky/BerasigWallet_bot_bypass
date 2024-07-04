@@ -118,7 +118,7 @@
                 children: [(0,
                 i.jsx)("button", {
                     className: "rung btn px-5 py-3",
-                    onClick: W,
+                    onClick: ()=>H.mutate(),
                     disabled: a,
                     children: "HackyCommunity"
                 }), (0,
