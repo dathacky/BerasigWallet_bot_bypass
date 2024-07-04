@@ -119,7 +119,7 @@
             , [g]),
             (0,
             n.jsxs)("div", {
-                onClick: f(),
+                onClick: f,
                 className: "take-bee-fly",
                 style: {
                     transform: "translate(".concat(o.x, "px, ").concat(o.y, "px)"),
