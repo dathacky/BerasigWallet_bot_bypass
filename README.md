@@ -17,6 +17,8 @@ For research purposes, no responsibility for any accounts being banned or copyri
 
 ![image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FpMXpiaG5ib2g3MDdjd3pyZ3dneGxhNDhncXViZ3RkeGZvdjliZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pSvyfzuNaRIuIQx4Dd/giphy.gif)
 
+![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ1MDQ5azBybnB1cjUyNjV4MzNwMzFxaTY0dWdvcXVlN216c3ZtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0xIxYhWqczGTrdvcUS/giphy.gif)
+
 
 <img width="396" alt="Screenshot 2024-07-03 at 10 28 59" src="https://github.com/dathacky/BerasigWallet_bot_bypass/assets/37299929/1af0f773-ce2d-40a0-bdea-bdd20fcf2252">
 
