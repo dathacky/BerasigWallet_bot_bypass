@@ -1,4 +1,4 @@
-# Bypass BerasigWallet Bot by @dathacky | 4/7/2024
+# Bypass BerasigWallet Bot by @dathacky | 9/7/2024
 
 ## Features
 - Bypass tracking focus tab
