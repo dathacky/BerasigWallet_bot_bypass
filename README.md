@@ -4,7 +4,7 @@
 - F12
 - Click Deactive Breakpoint
 <img width="635" alt="Screenshot 2024-07-13 at 19 39 29" src="https://github.com/user-attachments/assets/d01fe8c1-fb0f-44a6-8c50-3b41918cfb5f"> </br >
-- Select overider source
+- Overides source
 - Launch game
 
 ## Features
