@@ -1,13 +1,20 @@
-# Bypass BerasigWallet Bot by @dathacky | 9/7/2024
+# Bypass BerasigWallet Bot by @dathacky | 13/7/2024
+
+## NOTE STEP
+- F12
+- Click Deactive Breakpoint
+<img width="635" alt="Screenshot 2024-07-13 at 19 39 29" src="https://github.com/user-attachments/assets/d01fe8c1-fb0f-44a6-8c50-3b41918cfb5f">
+- Select overider source
+- Launch game
 
 ## Features
 - Bypass tracking focus tab
 - Auto take bee
-- Auto claim Bee process 26%
-- Remove ban acc Api
+- <s>Auto claim Bee process 26%</s>
+- <s>Remove ban acc Api</s> -> They removed
 - Auto close take bee success modal
 - Auto close Oh no modal
-- Claim BEE without captcha, without select coin type
+- <s>Claim BEE without captcha, without select coin type</s>
 
 ## NOTE
 For research purposes, no responsibility for any accounts being banned or copyright related issues.
